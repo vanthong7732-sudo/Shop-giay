@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vanthong7732-sudo.github.io/Shop-giay/sitemap.xml
